@@ -14,3 +14,10 @@ In this project, I'm using the following:
 10.  Bootstrap 5 (Designing)
 11.  DataTable (Pagination)
 12. Fontawesome (Icons)
+
+
+To Run this project Clone it and install modules using
+npm install
+Then Create config.env file . That's it. You are ready to go. To execute this project just type
+
+npm start
